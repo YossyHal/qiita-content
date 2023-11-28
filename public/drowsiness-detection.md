@@ -1,7 +1,7 @@
 ---
 title: drowsiness-detection
 tags:
-  - ''
+  - 'AI'
 private: true
 updated_at: ''
 id: null
