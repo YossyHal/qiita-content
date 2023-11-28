@@ -4,10 +4,11 @@ tags:
   - C
   - C++
 private: false
-updated_at: '2022-12-14T11:58:24+09:00'
+updated_at: '2023-09-02T10:28:09+09:00'
 id: fe4bff2d92cce2c7bddd
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 ## 実装した機能
@@ -31,7 +32,7 @@ printfしか使っておらず、余計な物が一切存在しないので、�
 
 ## 実装
 
-https://github.com/YossyHal/simple-c-logger
+<https://github.com/YossyHal/simple-c-logger>
 
 ```cpp:logger.h
 #pragma once

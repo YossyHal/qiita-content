@@ -4,10 +4,11 @@ tags:
   - Linux
   - Git
 private: false
-updated_at: '2022-10-13T04:42:39+09:00'
+updated_at: '2023-09-02T10:28:09+09:00'
 id: 6924c419e12cfcaebcba
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 以下の2つのテキストファイルがあるとする  
@@ -50,7 +51,7 @@ diff -u A.txt B.txt
 unified形式のdiffが出力される  
 Gitのdiffにかなり近い形式  
 
-```
+```diff
 --- A.txt       2022-10-12 17:24:12.165288000 +0900
 +++ B.txt       2022-10-12 17:26:09.695288000 +0900
 @@ -1,3 +1,3 @@
@@ -125,7 +126,6 @@ Gitはハッシュ関数を利用することで、ファイルの中身が一�
 
 ちなみに、ハッシュ値の先頭2桁はディレクトリ名、残りの38桁はファイル名として `.git/objects` の下に保存される  
 ![git_object.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/675511/d0124213-4c14-d2fb-0ad4-b3449b121dbc.png)
- 
 
 `cat-file` コマンドを使うことで中身を取り出すこともできる  
 
@@ -139,7 +139,6 @@ git cat-file -p 6e73a9cea3235240ff29f184e0427d47b09f8801
 
 Gitが高速な動作をする背景には、こういった優れた仕組みがあったのだ  
 リーナス様に感謝🙇‍♂️
-
 
 ## 参考サイト
 
