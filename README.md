@@ -5,6 +5,9 @@ npm install @qiita/qiita-cli@latest
 # 記事の作成
 npx qiita new 記事のファイルのベース名
 
+# Qiita Preview の起動
+npx qiita preview
+
 # 記事の投稿・更新
 npx qiita publish 記事のファイルのベース名
 

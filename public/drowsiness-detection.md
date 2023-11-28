@@ -1,5 +1,5 @@
 ---
-title: drowsiness-detection
+title: 国会中継の映像から居眠り議員を検出する
 tags:
   - AI
 private: true
