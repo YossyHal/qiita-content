@@ -1,10 +1,10 @@
 ---
 title: drowsiness-detection
 tags:
-  - 'AI'
+  - AI
 private: true
-updated_at: ''
-id: null
+updated_at: '2023-11-28T21:22:16+09:00'
+id: 2d84c81f7e0fbdc12b5f
 organization_url_name: null
 slide: false
 ignorePublish: false
