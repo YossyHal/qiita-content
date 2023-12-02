@@ -4,10 +4,10 @@ tags:
   - Python
   - 自然言語処理
   - SentimentAnalysis
-private: true
-updated_at: '2023-12-02T13:47:36+09:00'
+private: false
+updated_at: '2023-12-02T13:49:28+09:00'
 id: 864a615c7e928552e0fa
-organization_url_name: null
+organization_url_name: headwaters
 slide: false
 ignorePublish: false
 ---
