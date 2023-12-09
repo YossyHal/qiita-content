@@ -11,6 +11,14 @@ organization_url_name: headwaters
 slide: false
 ignorePublish: false
 ---
+## 2023年で最もダウンロードされたアルバム『結束バンド』
+
+>2023年の年間Billboard JAPANダウンロード・アルバム・チャート“Download Albums”で、結束バンド『結束バンド』が首位を獲得  
+>結束バンドは、テレビアニメ『ぼっち・ざ・ろっく！』の作中バンド  
+
+<https://www.billboard-japan.com/d_news/detail/132366/2>
+<https://x.com/Billboard_JAPAN/status/1732837630197264446?s=20>
+
 ## アニメ「ぼっち・ざ・ろっく！」の楽曲の魅力
 
 結束バンドの楽曲の歌詞は、主人公である後藤ひとりが作詞している設定なのだが、
